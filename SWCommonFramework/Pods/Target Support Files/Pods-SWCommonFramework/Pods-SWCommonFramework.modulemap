@@ -1,0 +1,6 @@
+framework module Pods_SWCommonFramework {
+  umbrella header "Pods-SWCommonFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

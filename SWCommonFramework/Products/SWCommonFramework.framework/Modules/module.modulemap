@@ -1,0 +1,11 @@
+framework module SWCommonFramework {
+  umbrella header "SWCommonFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module SWCommonFramework.Swift {
+    header "SWCommonFramework-Swift.h"
+    requires objc
+}
