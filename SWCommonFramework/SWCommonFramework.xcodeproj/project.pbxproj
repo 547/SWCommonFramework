@@ -24,6 +24,7 @@
 /* Begin PBXBuildFile section */
 		14B64FB81FF33ED900434AE8 /* SWCommonFramework.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 14B64FB71FF33ED900434AE8 /* SWCommonFramework.podspec */; };
 		14B64FC11FF33FB300434AE8 /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14B64FC01FF33FB300434AE8 /* Test.swift */; };
+		14B64FFE1FF34B8800434AE8 /* Test.swift in Headers */ = {isa = PBXBuildFile; fileRef = 14B64FC01FF33FB300434AE8 /* Test.swift */; settings = {ATTRIBUTES = (Public, ); }; };
 		14C704451FF33D02009AB8C1 /* SWCommonFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 14C7043B1FF33D02009AB8C1 /* SWCommonFramework.framework */; };
 		14C7044A1FF33D02009AB8C1 /* SWCommonFrameworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14C704491FF33D02009AB8C1 /* SWCommonFrameworkTests.swift */; };
 		14C7044C1FF33D02009AB8C1 /* SWCommonFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = 14C7043E1FF33D02009AB8C1 /* SWCommonFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -146,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				14C7044C1FF33D02009AB8C1 /* SWCommonFramework.h in Headers */,
+				14B64FFE1FF34B8800434AE8 /* Test.swift in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
