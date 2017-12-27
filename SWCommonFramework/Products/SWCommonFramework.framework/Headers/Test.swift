@@ -7,7 +7,7 @@
 //
 
 import Foundation
-class Test {
+public class Test {
     static func test() -> () {
         print("test")
     }
