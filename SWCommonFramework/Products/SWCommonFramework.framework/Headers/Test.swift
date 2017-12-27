@@ -8,7 +8,7 @@
 
 import Foundation
 public class Test {
-    static func test() -> () {
+    public static func test() -> () {
         print("test")
     }
 }
